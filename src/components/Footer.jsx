@@ -1,7 +1,7 @@
 // Footer.jsx
 import React from 'react';
 import { useLanguage } from './LanguageContext';
-import { translations } from './translations';
+import { translations } from './Translations';
 import './Footer.css';
 
 function Footer() {
